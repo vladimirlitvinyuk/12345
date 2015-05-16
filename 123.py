@@ -1,2 +1,2 @@
 __author__ = 'samsung'
-print ("test")
+print ("test2")
